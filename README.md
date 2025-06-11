@@ -23,7 +23,7 @@ Este é meu portfólio pessoal como desenvolvedor de software, onde apresento mi
 ## 📄 Visualização
 
 Você pode acessar o site publicado em:  
-👉 [https://IgorFarias04.github.io/portfolio-igor](https://IgorFarias04.github.io/portfolio-igor)  
+👉 ([https://IgorFarias04.github.io/portfolio-igor](https://igorfarias04.github.io/Portifolio-Igor/))  
 *(Link será válido após deploy no GitHub Pages)*
 
 ---
